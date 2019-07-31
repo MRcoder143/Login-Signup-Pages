@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<title>Web Page</title>
     <head>
             <meta charset="utf-8">
             <meta name="viewport" content="width=device-width initial-scale=1">
@@ -10,7 +11,7 @@
         <div class="container">
             <div class="card ">
                 <div class="card-header bg-dark">
-                    <h1 class="text-white text-center">Welcome Here <h1>
+                    <h1 class="text-danger text-center">Welcome Here <h1>
                 </div>
             </div>
         </div>
