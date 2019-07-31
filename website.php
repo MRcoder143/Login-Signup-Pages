@@ -11,7 +11,7 @@
         <div class="container">
             <div class="card ">
                 <div class="card-header bg-dark">
-                    <h1 class="text-danger text-center">Welcome Here <h1>
+                    <h1 class="text-white text-center">Welcome Here <h1>
                 </div>
             </div>
         </div>
